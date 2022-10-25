@@ -5,9 +5,9 @@
 
 ### Connect with me
 
-tg
-89080194201
-gmail
+- tg: sv_shipilov
+- 89080194201
+- shipilovsemen7@gmail.com
 
 
 ### Tools
