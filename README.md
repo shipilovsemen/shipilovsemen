@@ -11,4 +11,5 @@
 
 
 ### Tools
-Функциональное тестирование
+Функциональное тестирование, DevTools, Postman, Test case, Fiddler, SQL, 
+Atlassian Jira, Linux, HTML, CSS.
