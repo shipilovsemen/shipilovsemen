@@ -11,20 +11,20 @@
 
 
 ### Tools
-UI
-API
-REST
-SQL
-PostgreSQL
-Функциональное тестирование
-Интеграционное тестирование
-Регрессионное тестирование
-Atlassian Jira
-Postman
-Charles
-Fiddler
-DevTools
-Test case
-Linux
-HTML
-CSS
+UI,
+API,
+REST,
+SQL,
+PostgreSQL,
+Функциональное тестирование,
+Интеграционное тестирование,
+Регрессионное тестирование,
+Atlassian Jira,
+Postman,
+Charles,
+Fiddler,
+DevTools,
+Test case,
+Linux,
+HTML,
+CSS.
