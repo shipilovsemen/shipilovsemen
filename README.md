@@ -11,5 +11,20 @@
 
 
 ### Tools
-Функциональное тестирование, DevTools, Postman, Test case, Fiddler, SQL, 
-Atlassian Jira, Linux, HTML, CSS.
+UI
+API
+REST
+SQL
+PostgreSQL
+Функциональное тестирование
+Интеграционное тестирование
+Регрессионное тестирование
+Atlassian Jira
+Postman
+Charles
+Fiddler
+DevTools
+Test case
+Linux
+HTML
+CSS
